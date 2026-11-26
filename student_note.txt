@@ -1,1 +1,22 @@
 SAJID KAZI YASIN
+
+### Key Features
+
+- Automated image scanning using GitHub Actions
+- PNG file signature verification
+- Detection of hidden appended data
+- Custom suspicious keyword detection
+- Automated security reports
+
+---
+
+### Security Scan Results
+
+| Test | Expected Result |
+|---|---|
+| Clean Image | ✅ Passed |
+| Suspicious Image | ❌ Failed |
+| Custom Keyword Detection | ❌ Failed (Detection Successful) |
+| Final Clean Image | ✅ Passed |
+
+---
