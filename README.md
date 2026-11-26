@@ -1,3 +1,17 @@
+## Project Overview
+
+> An automated cybersecurity tool for detecting suspicious hidden data inside image files.
+
+### Key Features
+
+- Automated image scanning using GitHub Actions
+- PNG file signature verification
+- Detection of hidden appended data
+- Custom suspicious keyword detection
+- Automated security reports
+
+---
+
 # Lesson 3 · StegoGuard Image Forensics with GitHub Actions
 
 Detect appended data in a PNG file, interpret the scanner’s findings, and test a new keyword rule. Complete the lab in your own GitHub fork using the web browser.
